@@ -76,30 +76,6 @@
 
 ---
 
-<!-- ======================= PINNED PROJECTS (MANUAL SECTION) ======================= -->
-
-## 📌 Featured Projects
-
-> در GitHub هم حتماً از بخش **"Customize your pins"** چند تا از بهترین ریپازیتوری‌هات رو پین کن.  
-> این قسمت فقط یک معرفی متنی حرفه‌ای برای همان پروژه‌هاست.
-
-### 🔹 Project 1 – Awesome .NET Web App
-- **Tech:** ASP.NET Core, EF Core, SQL Server  
-- **Description:** A scalable web application with clean architecture and layered design.  
-- **Highlights:** Authentication, role-based authorization, clean domain-driven structure  
-
-### 🔹 Project 2 – Modern React / Next.js Frontend
-- **Tech:** React, Next.js, Tailwind CSS  
-- **Description:** Modern, responsive UI with reusable components and clean state management.  
-
-### 🔹 Project 3 – Full Stack App
-- **Tech:** ASP.NET Core + React / Next.js  
-- **Description:** Full stack application showcasing end-to-end architecture, REST APIs and frontend integration.  
-
-> وقتی آماده شد، اسم و توضیحات این پروژه‌ها را با ریپازیتوری‌های واقعی‌ات عوض کن.
-
----
-
 <!-- ======================= GITHUB STATS ======================= -->
 
 ## 📊 GitHub Statistics
