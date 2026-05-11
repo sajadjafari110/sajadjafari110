@@ -136,6 +136,11 @@
 ---
 
 # ⚡ Fun Fact
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sajadjafari110/sajadjafari110/output/github-contribution-grid-snake.svg" />
+</p>
 
 <p align="center">
   I enjoy building clean and scalable applications while continuously exploring modern technologies 🚀
