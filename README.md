@@ -1,34 +1,39 @@
 <h1 align="center">Hi 👋, I'm Sajad</h1>
 
 <h3 align="center">
-  Software Engineer • Full Stack .NET Developer • Building Modern Web Applications
+  Software Engineer & Full Stack .NET Developer
 </h3>
 
 <p align="center">
-  Passionate about backend architecture, clean code, scalable systems, and modern frontend experiences.
+  Building scalable backend systems and modern frontend experiences with ASP.NET Core, React, and Next.js
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Software+Engineer;ASP.NET+Core+Developer;Full+Stack+Web+Developer;React+%26+Next.js+Enthusiast;Clean+Code+Advocate;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer;ASP.NET+Core+Developer;Full+Stack+Web+Developer;React+%2F+Next.js+Developer;Clean+Code+Advocate;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 Software Engineering Graduate
-- 💼 Full Stack Developer focused on modern web technologies
-- 🔥 Specialized in ASP.NET Core and scalable backend development
-- ⚛️ Interested in React, Next.js, and modern UI/UX development
-- 🛠️ Passionate about building clean, maintainable, and performant applications
-- 🌱 Currently improving my skills in advanced frontend architecture and cloud-ready applications
-- 🚀 Always learning and exploring new technologies
+- 💻 Full Stack Developer with a passion for modern web technologies
+- ⚙️ Backend focused with strong experience in ASP.NET Core
+- 🎨 Building responsive and interactive UIs with React & Next.js
+- 🧠 Interested in scalable architecture, clean code, and performance optimization
+- 🚀 Continuously learning and improving my development skills
+- 🔥 Turning ideas into real-world applications
+
+<br><br>
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-### 🖥️ Backend Development
+### 🖥️ Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,cs" />
 </p>
@@ -36,74 +41,101 @@
 - ASP.NET Core
 - C#
 - Visual Basic
-- REST API Development
+- RESTful APIs
+- Razor Pages
 - Entity Framework Core
 
 ---
 
-### 🎨 Frontend Development
+### 🎨 Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
 </p>
 
 - HTML5
 - CSS3
 - JavaScript
 - jQuery
-- Razor Pages
 - React.js
 - Next.js
 - Tailwind CSS
-- shadcn/ui
 - Bootstrap
+- shadcn/ui
 
 ---
 
 ### 🗄️ Database & Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,mysql" />
 </p>
 
 - SQL Server
-- Database Design
 - Git & GitHub
 - Visual Studio
 - VS Code
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sajadjafari110&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajadjafari110&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sajadjafari110&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sajadjafari110&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  
+
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jafarisajad110@gmail.com?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+# 👀 Profile Views
+
 <p align="center">
-  💡 "Code is not just syntax — it's solving real-world problems with creativity and logic."
+  <img src="https://komarev.com/ghpvc/?username=sajadjafari110&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+<p align="center">
+  I enjoy building clean and scalable applications while continuously exploring modern technologies 🚀
 </p>
