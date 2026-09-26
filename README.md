@@ -69,10 +69,12 @@
 ### 🗄️ Database & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,mysql,postgres,sqlserver" />
 </p>
 
 - SQL Server
+- PostgreSQL
+- MySQL
 - Git & GitHub
 - Visual Studio
 - VS Code
